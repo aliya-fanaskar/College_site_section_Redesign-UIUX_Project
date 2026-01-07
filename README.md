@@ -3,7 +3,8 @@
 
 This project was completed after my Master’s final semester (June 2022), when my professor recognized my **UI/UX design skills** and proposed a real-world project: **redesigning the 'Training and Placement' section of the official college website**.  
 
-*College Name* :- **Finolex Academy of Management & Technology (FAMT), Ratnagiri, Maharashtra - 415639**
+*College Name* :- **Finolex Academy of Management & Technology (FAMT), Ratnagiri, Maharashtra - 415639**\
+*College Official website* :- [FAMT - Training and Placement Department](https://famt.ac.in/tnp/)
 
 My responsibility was to design the **wireframes and interactive prototype** in **Figma**, and then hand over the design to my teammate, who implemented it using frontend technologies. The design was well-received by my professor and went into actual use.
 
@@ -55,7 +56,6 @@ You can view Figma UI prototypes here
 * Prototype of Old Design - [View Prototype](https://www.figma.com/proto/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=4-37&p=f&t=LTVRjR71zMe5FcZV-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A37&show-proto-sidebar=1)
 * Prototype of New Design - [View Prototype](https://www.figma.com/proto/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=32-548&p=f&t=LTVRjR71zMe5FcZV-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A548&show-proto-sidebar=1)
 * Figma file link - [Click Here](https://www.figma.com/design/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=0-1&p=f&t=jpML0TUuWakwa4E4-0)
-* College Official website - [FAMT - Training and Placement Department](https://famt.ac.in/tnp/)
 
 ---
 
